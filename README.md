@@ -1,2 +1,3 @@
 # ProjectC
-đây là project để chấm điểm bài thi thực hành môn C (không phải C#)
+This is project by form application writed by C# help teacher to get mark of PRACTICE EXAM C LANGUAGUE 
+DONE BY ME
