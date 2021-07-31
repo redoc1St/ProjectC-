@@ -1,0 +1,9 @@
+Hướng dẫn sử dụng:
+1, chọn folder chưa file chương trình test(exe) là Program(exe) : 
+ví dụ: C:\Users\ACER\OneDrive\Desktop\ProjectC\ProjectC\Test_PEA\Prog2Test (địa chỉ với máy mình)
+2,chọn Folder chứa testcase là Testcase(folder)
+ví dụ: C:\Users\ACER\OneDrive\Desktop\ProjectC\ProjectC\Test_PEA\TestCase (địa chỉ với máy mình)
+
+(trong đây mình có để testcase vs chương trình test cho mọi người chạy thử)
+
+----------QuangDDHE141474--------------

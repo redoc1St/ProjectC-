@@ -1,0 +1,10 @@
+C:\Users\ACER\OneDrive\Desktop\ProjectC\ProjectC\ProjectC\bin\Debug\ProjectC.exe
+C:\Users\ACER\OneDrive\Desktop\ProjectC\ProjectC\ProjectC\bin\Debug\ProjectC.pdb
+C:\Users\ACER\OneDrive\Desktop\ProjectC\ProjectC\ProjectC\obj\Debug\ProjectC.csprojAssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\ProjectC\ProjectC\ProjectC\obj\Debug\ProjectC.Form1.resources
+C:\Users\ACER\OneDrive\Desktop\ProjectC\ProjectC\ProjectC\obj\Debug\ProjectC.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Desktop\ProjectC\ProjectC\ProjectC\obj\Debug\ProjectC.ShowWrongAnswer.resources
+C:\Users\ACER\OneDrive\Desktop\ProjectC\ProjectC\ProjectC\obj\Debug\ProjectC.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Desktop\ProjectC\ProjectC\ProjectC\obj\Debug\ProjectC.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\ProjectC\ProjectC\ProjectC\obj\Debug\ProjectC.exe
+C:\Users\ACER\OneDrive\Desktop\ProjectC\ProjectC\ProjectC\obj\Debug\ProjectC.pdb
